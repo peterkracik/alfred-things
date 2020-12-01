@@ -7,7 +7,7 @@
 	<key>category</key>
 	<string>Productivity</string>
 	<key>NSAppleEventsUsageDescription</key>
-	<string>Workflow wants to use AppleScript.</string>
+	<string>Workflow wants to use send event to things3.</string>
 	<key>connections</key>
 	<dict>
 		<key>0D3E316F-3292-4631-9119-7402E90B20FB</key>
